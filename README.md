@@ -1,5 +1,14 @@
 # Full Stack Food Ordering Website
 
- food ordering website / app using React JS, MongoDB, Express, Node JS and Stripe payment gateway. In this Full Stack Food delivery app project we will create the Frontend website, Admin Panel and Backend server. 
-We will create the user authentication system so that anyone can create an account and login this food order website.
-We will create the shopping cart functionality so that user can add food items in their cart and order food from this app. We will also integrate the Stripe payment gateway to place the order and with online payment. Then we will create the order status update features also.
+
+ Built with the MERN stack, styled with a modern tech aesthetic, and integrated with a secure payment gateway (Stripe) – this project reflects my full-stack development skills in action!
+💻 Tech Stack: MongoDB | Express | React | Node.js
+ 💳 Features:
+Browse restaurants & menus
+Add to cart & place orders
+Secure online payments
+User login/signup with JWT
+Admin dashboard to manage users, orders & payments
+Fully responsive with a clean UI
+🔥 Designed with performance, UX, and scalability in mind!
+🎯 This project was a great learning experience, from API integration to managing state and routing in React.
